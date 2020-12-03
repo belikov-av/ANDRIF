@@ -1,2 +1,2 @@
 # ADRIF
-Aneuploidy DRIver Finder
+ANeuploidy DRIver Finder
